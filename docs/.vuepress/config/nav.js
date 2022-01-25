@@ -56,7 +56,7 @@ module.exports = [
       { text: '学习', link: '/pages/82d5d5/' },
       { text:'Git命令',link: '/pages/548b44/'},
       { text: '面试', link: '/pages/aea6571b7a8bae86/' },
-      {text:'博客搭建',link:'/pages/85c53a/'},
+      { text:'博客搭建', link:'/pages/85c53a/'},
       { text: '心情杂货', link: '/pages/2d615df9a36a98ed/' },
       { text: '实用技巧', link: '/pages/baaa02/' },
       { text: '友情链接', link: '/friends/' },
