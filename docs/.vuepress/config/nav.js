@@ -50,6 +50,16 @@ module.exports = [
     ],
   },
   {
+    text: '十万个为什么',
+    link: '/why/',
+    items: [
+      {text: 'Java',link: '/pages/6c2c13/'},
+      {text: 'JavaWeb',link: '/pages/6b9079/'},
+      {text: 'Mysql',link: '/pages/b0b425/'},
+      {text: 'Spring',link: '/pages/538344/'},
+    ],
+  },
+  {
     text: '更多',
     link: '/more/',
     items: [
