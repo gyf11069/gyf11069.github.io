@@ -2,7 +2,7 @@
 home: true
 # heroImage: /img/bg3.jpeg
 heroText: 莫哈德的博客
-tagline: 致力于积累零散的知识最终形成一个完整的知识体系。
+tagline: 一个人拥有再强的能力，无法帮助别人就失去了意义；一个人拥有再多的知识，无法传递出去就失去了价值。
 # actionText: 立刻进入 →
 # actionLink: /web/
 bannerBg: /img/bg2.jpeg
